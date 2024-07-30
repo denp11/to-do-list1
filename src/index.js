@@ -1,5 +1,4 @@
-// XXX even though ethers is not used in the code below, it's very likely
-// it will be used by any DApp, so we are already including it here
+
 import { ROLLUP_SERVER } from './shared/config';
 import { hexToString } from 'viem';
 import { RollupStateHandler } from './shared/rollup-state-handler';
