@@ -1,4 +1,4 @@
-fghhgf
+
 import { ROLLUP_SERVER } from './shared/config';
 import { hexToString } from 'viem';
 import { RollupStateHandler } from './shared/rollup-state-handler';
